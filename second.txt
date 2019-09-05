@@ -1,1 +1,2 @@
 print("I am Konstantin");
+print("I am age 43");
